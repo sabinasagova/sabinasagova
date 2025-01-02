@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sabína Ságová</h1>
 <h3 align="center">A friendly and funny AI enthusiast from Slovakia 🇸🇰</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/_Utilxgj8RUAAAAj/peach-goma-peach-and-goma.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/O3w6CwTqrs8AAAAj/peach-goma.gif">
 
 - 🔧 I’m currently working on **AI-related projects** as part of my master’s studies at [Charles University](https://www.cuni.cz/).
 
