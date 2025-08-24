@@ -8,9 +8,9 @@
 
 - 🌿 I’m currently learning **social networks and their analysis**, as well as **evolutionary algorithms**.
 
-- 🎓 I studied 8 years in Slovak 🇸🇰, 5 years in English 🇬🇧, and now 5 years in Czech 🇨🇿.
+- 🎓 I studied 8 years in Slovak 🇸🇰, 5 years in English 🇬🇧, and now 6 years in Czech 🇨🇿.
   
-- 🎡 My potential specialization would be **machine learning or robotics**.
+- 🎡 My specialization is **machine learning**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
