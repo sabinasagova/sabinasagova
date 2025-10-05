@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Sabína Ságová</h1>
-<h3 align="center">An AI enthusiast from Slovakia 🇸🇰</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/O3w6CwTqrs8AAAAj/peach-goma.gif">
 
