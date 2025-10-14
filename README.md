@@ -11,14 +11,7 @@
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 250px; text-align: center; padding: 10px;">
-    <img 
-      src="https://media.tenor.com/O3w6CwTqrs8AAAAj/peach-goma.gif" 
-      alt="Coding" 
-      width="300" 
-      style="border-radius: 20px; max-width: 100%; height: auto;"
-    />
-  </div>
+
 </div>
 
 <h3 align="left">Connect with me:</h3>
