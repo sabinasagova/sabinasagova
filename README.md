@@ -1,13 +1,13 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
   <div style="flex: 1; min-width: 300px; max-width: 600px; padding: 10px;">
     <div align="center">
-    <h1>Hi, I'm <span style="color:#6C63FF;">Sabína Ságová</span></h1>
+    <h1>Hi, I am <span style="color:#6C63FF;">Sabína Ságová</span></h1>
     </div>
     <ul style="line-height: 1.6; font-size: 1.05em; list-style-type: disc; padding-left: 10;">
-      <li>🔧 I’m currently working on <b>AI-related projects</b> as part of my master’s studies at 
+      <li>🔧 I am currently working on <b>AI-related projects</b> as part of my master’s studies at 
         <a href="https://www.cuni.cz/" target="_blank">Charles University</a>.
       </li><br>
-      <li>🌿 I’m currently learning <b>social networks and their analysis</b>, as well as <b>evolutionary algorithms</b>.</li><br>
+      <li>🌿 I am currently learning <b>social networks and their analysis</b>, as well as <b>evolutionary algorithms</b>.</li><br>
       <li>🎓 I studied 8 years in Slovak 🇸🇰, 5 years in English 🇬🇧, and now 6 years in Czech 🇨🇿.</li><br>
       <li>🎡 My specialization is <b>machine learning</b>.</li>
     </ul>
