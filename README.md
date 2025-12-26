@@ -1,7 +1,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
   <div style="flex: 1; min-width: 300px; max-width: 600px; padding: 10px;">
     <div align="center">
-    <h1>Hi, I am <span style="color:#6C63FF;">Sabína Ságová</span></h1>
+    <h1>Hi, I am <span style="color:#6C63FF;">Sabína Ságová</span> 👋</h1>
     </div>
     <ul style="line-height: 1.6; font-size: 1.05em; list-style-type: disc; padding-left: 10;">
       <li>🔧 I am currently working on <b>AI-related projects</b> as part of my master’s studies at 
